@@ -1,9 +1,10 @@
 {
   "name": "json-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "Backend for QTrip Dynamic",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "build": "webpack --mode production" // Add the correct build script
   },
   "keywords": [],
   "author": "",
