@@ -4,7 +4,7 @@
   "description": "Backend for QTrip Dynamic",
   "scripts": {
     "start": "node server.js",
-    "build": "webpack --mode production" // Add the correct build script
+    "build": "webpack --mode production" 
   },
   "keywords": [],
   "author": "",
