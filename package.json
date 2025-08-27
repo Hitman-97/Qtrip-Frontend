@@ -1,25 +1,19 @@
 {
-  "name": "json-server",
+  "name": "qtrip-dynamic-frontend",
   "version": "1.0.0",
-  "description": "",
+  "description": "Frontend for QTrip Dynamic",
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",  
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "5.0.1"
+  },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "body-parser": "^1.19.0",
-    "cors": "^2.8.5",
-    "dayjs": "^1.9.4",
-    "express": "^4.17.1",
-    "lowdb": "^1.0.0",
-    "nanoid": "^3.1.10",
-    "@testing-library/dom": "^8.13.0",
-    "typescript": "^3.2.1",
-    "@babel/core": "^7.17.10"
-  }
+  "license": "ISC"
 }
